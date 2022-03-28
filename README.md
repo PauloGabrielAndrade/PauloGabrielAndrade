@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo Gabriel Andrade de Souza
 - 🌱 I’m currently learning React.js
--💜 Collaborator at accenture.
+- 💜 Collaborator at accenture
 
 <!---
 PauloGabrielAndrade/PauloGabrielAndrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
